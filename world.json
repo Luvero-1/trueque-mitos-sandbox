@@ -1,0 +1,33 @@
+{
+  "name": "trueque-mitos-sandbox",
+  "title": "Trueque mitos para Sandbox",
+  "description": "<div style=\"text-align:center\"><em><img src=\"worlds/trueque/miscelanea/Portada/Trueque%20portada2.jpg\" width=\"185\" height=\"147\" /></em></div>\n<div id=\"yui_3_17_2_1_1609665408488_993\" style=\"text-align:center\"><em>Pasa, no te detengas… Hasta lo más profundo de la oscuridad. </em></div>",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "url": "https://github.com/Luvero-1/trueque-mitos-sandbox",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/trueque-mitos-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/trueque-mitos-sandbox/zip/main",
+  "protected": false,
+  "background": "worlds/trueque-mitos-sandbox/miscelanea/Portada/Trueque%20portada2.jpg",
+  "coreVersion": "9.268",
+  "nextSession": "",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.12.4"
+}

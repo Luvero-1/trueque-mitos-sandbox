@@ -1,0 +1,22 @@
+{"name":"Trasfondos","type":"Item","parent":"tnZ6EKfkWs4W3mMS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"0f1BjjDxb2nMuA9X"}
+{"name":"1 - Tabs","type":"Item","sort":null,"flags":{},"parent":"ZW6zkNMoz1p9DAm0","sorting":"a","color":"","_id":"15XZN5UhA57OghFg"}
+{"name":"Generador de escenarios","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"AItML8Z6ORAbsegW"}
+{"name":"Pilares de estabilidad","type":"Item","sort":null,"flags":{},"parent":"tnZ6EKfkWs4W3mMS","sorting":"a","color":"","_id":"BXiwxPqYGL7tKLgI"}
+{"name":"Grupos","type":"Item","sort":null,"flags":{},"parent":"JN1aebW7wZ2NyHpE","sorting":"a","color":"","_id":"Ci8A6C7HjYRKMEbV"}
+{"name":"2 - Paneles","type":"Item","sort":null,"flags":{},"parent":"ZW6zkNMoz1p9DAm0","sorting":"a","color":"","_id":"FdYsjgXX8jsuyCO7"}
+{"name":"3 - Grupos y tablas","type":"Item","sort":null,"flags":{},"parent":"ZW6zkNMoz1p9DAm0","sorting":"a","color":"","_id":"JN1aebW7wZ2NyHpE"}
+{"name":"Tiradas","type":"Item","sort":null,"flags":{},"parent":"tnZ6EKfkWs4W3mMS","sorting":"a","color":"","_id":"KKuWN2KHAlEw44eE"}
+{"name":"Estados","type":"Item","sort":null,"flags":{},"parent":"tnZ6EKfkWs4W3mMS","sorting":"a","color":"","_id":"Tt6O9gsPYEEMqRoJ"}
+{"name":"Posesiones preciadas","type":"Item","sort":null,"flags":{},"parent":"tnZ6EKfkWs4W3mMS","sorting":"a","color":"","_id":"WcqMwfBWpYWffcvH"}
+{"name":"Plantilla de personajes","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"WhJo1w1WfTjiyVSh"}
+{"name":"Creencias","type":"Item","parent":"tnZ6EKfkWs4W3mMS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YmC21T7Psf90tO9t"}
+{"name":"Sitio tranquilo","type":"Item","sort":null,"flags":{},"parent":"tnZ6EKfkWs4W3mMS","sorting":"a","color":"","_id":"ZDvcpTqPSpbQNteJ"}
+{"name":"Configuración de plantilla","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"ZW6zkNMoz1p9DAm0"}
+{"name":"Motivacion","type":"Item","parent":"tnZ6EKfkWs4W3mMS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hvaAEjeNcMkKO2Mf"}
+{"name":"Tablas","type":"Item","sort":null,"flags":{},"parent":"JN1aebW7wZ2NyHpE","sorting":"a","color":"","_id":"kE5j7R6om8LWXaUC"}
+{"name":"Ayudas de sesión","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"kcRVHg8XG77QW6Zi"}
+{"name":"Impetu","type":"Item","sort":null,"flags":{},"parent":"tnZ6EKfkWs4W3mMS","sorting":"a","color":"","_id":"nnj9cpBXTSXGH7Gv"}
+{"name":"Básico","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"nwFJJYJQtWTsaoBX"}
+{"name":"Generador del horror","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"qO1ve88vc1uhppia"}
+{"name":"Pestaña trasfondo","type":"Item","parent":"tnZ6EKfkWs4W3mMS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"socRDk1pmj1h8ouB"}
+{"name":"4 - Propiedades","type":"Item","sort":null,"flags":{},"parent":"ZW6zkNMoz1p9DAm0","sorting":"a","color":"","_id":"tnZ6EKfkWs4W3mMS"}
